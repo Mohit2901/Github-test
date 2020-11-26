@@ -6,4 +6,6 @@ Repo for Devops training
 
 ## Jack Ryan is one of the best series
 
-# I have completed it
+# I have completed it season 1.
+
+and today is stating with season 2.
